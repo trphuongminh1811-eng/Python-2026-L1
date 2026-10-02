@@ -1,5 +1,5 @@
 USTH Advanced Programming with Python 2026
 ==================================
 
-* Your name here
-* Your ID here
+* TruongPhuongMinh
+* 2510647
